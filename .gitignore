@@ -1,0 +1,29 @@
+
+*.sqlite
+*.json
+*.v2
+Lesson 01/.vs/Lesson 01/v16/.suo
+*.sln
+Lesson 02 task 02/.vs/Lesson 02 task 02/v16/.suo
+*.dll
+*.exe
+*.pdb
+*.csproj
+Lesson 02 task 02/Lesson 02 task 02/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+Lesson 02 task 02/Lesson 02 task 02/obj/Debug/net5.0/Lesson 02 task 02.AssemblyInfo.cs
+Lesson 02 task 02/Lesson 02 task 02/obj/Debug/net5.0/Lesson 02 task 02.AssemblyInfoInputs.cache
+*.cache
+Lesson 02 task 04/.vs/Lesson 02 task 04/v16/.suo
+*.targets
+Lesson 1/.vs/Lesson 1/v16/.suo
+*.editorconfig
+*.txt
+*.props
+Lesson 02 task 03/.vs/Lesson 02 task 03/v16/.suo
+Lesson 02 task 03/Lesson 02 task 03/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+Lesson 02 task 03/Lesson 02 task 03/obj/Debug/net5.0/Lesson 02 task 03.AssemblyInfo.cs
+Lesson 02 task 04/Lesson 02 task 04/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+Lesson 02 task 04/Lesson 02 task 04/obj/Debug/net5.0/Lesson 02 task 04.AssemblyInfo.cs
+Lesson 02 task 05/.vs/Lesson 02 task 05/v16/.suo
+Lesson 02 task 05/Lesson 02 task 05/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+Lesson 02 task 05/Lesson 02 task 05/obj/Debug/net5.0/Lesson 02 task 05.AssemblyInfo.cs
